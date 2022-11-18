@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.login-bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login-header {
+  font-size: 3rem;
+}
+
+.login-button {
+  outline: none;
+  cursor: pointer;
+}

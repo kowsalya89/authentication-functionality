@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.about-bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-header {
+  margin-top: 0;
+  font-size: 3rem;
+}

@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.header-bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.header-nav-link {
+  font-size: 1rem;
+  margin-right: 0.5rem;
+}
